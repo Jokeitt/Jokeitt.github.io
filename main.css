@@ -1,7 +1,7 @@
 body {
-	margin: 0px;
+	margin: 20px;
 	font-family: "Arial";
-	background-color: #2c6d57;
+	background-color: #ffffff;
 }
 
 header {
@@ -21,18 +21,16 @@ a {
 	margin: 7px 40px 0px 0px;
 	vertical-align: middle;
 	text-decoration: none;
-	background-color: #2c6d57;
-	padding: 20;
-	border-radius: 5px;
+	padding: 20px;
 	float: right;
 }
 
 a:link {
-	color: 00000;
+	color: #2c6d57;
 }
 
 a:visited {
-	color: 00000;
+	color: #2c6d57;
 }
 
 a:hover {
@@ -46,6 +44,7 @@ a:hover {
 h1 {
 	text-align: center;
 	color: #399192;
+	background-color: #262626;
 }
 
 p {
