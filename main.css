@@ -1,0 +1,53 @@
+body {
+	margin: 0px;
+	font-family: "Arial";
+	background-color: #2c6d57;
+}
+
+header {
+	background-color: #262626;
+}
+
+ul li {
+	color: #4d004d;
+	display: inline;
+}
+
+ul {
+	display: inline; 
+}
+
+a {
+	margin: 7px 40px 0px 0px;
+	vertical-align: middle;
+	text-decoration: none;
+	background-color: #2c6d57;
+	padding: 20;
+	border-radius: 5px;
+	float: right;
+}
+
+a:link {
+	color: 00000;
+}
+
+a:visited {
+	color: 00000;
+}
+
+a:hover {
+	color: #399192;
+}
+
+.active {
+	color: #2c6d57;
+}
+
+h1 {
+	text-align: center;
+	color: #399192;
+}
+
+p {
+	margin: 10px;
+}
