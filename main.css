@@ -18,10 +18,10 @@ ul {
 }
 
 a {
-	margin: 7px 40px 0px 0px;
+	margin-top: 27px;
+	margin-right: 1%;
 	vertical-align: middle;
 	text-decoration: none;
-	padding: 20px;
 	float: right;
 }
 
@@ -48,7 +48,7 @@ h1 {
 	margin: 0px;
 }
 
-p {
+.bin {
 	margin: 10px;
 }
 
@@ -62,4 +62,12 @@ p {
 
 .joke {
 	text-align: center;
+}
+
+.space {
+	margin-top: 27px;
+	margin-right: 1%;
+	display: inline;
+	float: right;
+	vertical-align: middle;
 }
